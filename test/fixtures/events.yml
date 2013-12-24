@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  start: 2013-12-24
+  end: 2013-12-24
+  location: MyText
+  description: MyText
+  active: false
+  projects: 
+
+two:
+  title: MyString
+  start: 2013-12-24
+  end: 2013-12-24
+  location: MyText
+  description: MyText
+  active: false
+  projects: 
